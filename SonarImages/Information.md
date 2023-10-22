@@ -21,6 +21,6 @@
 - [The Main Research Paper](https://ieeexplore.ieee.org/document/9026963)
 - [Understanding Side Scan Sonar Images](https://www.lafishblog.com/interpret-side-imaging-sonar/)
 - [Improving Image Quality](https://www.researchgate.net/publication/374656080_An_Image_Quality_Improvement_Method_in_Side-Scan_Sonar_Based_on_Deconvolution)
-- [Another Powerful Research Paper](https://www.mdpi.com/2079-9292/10/15/1823#)
+- [Side Scan Sonar Using Classification and Models](https://www.mdpi.com/2079-9292/10/15/1823#)
 - [Sea Floor Pipeline Detection Paper](https://www.hydro-international.com/content/article/automatic-detection-of-seafloor-pipelines-with-deep-learning)
 - [Research Paper on Building Deep Convolutional Neural Networks](https://openlibrary.cmre.nato.int/bitstream/handle/20.500.12489/813/CMRE-PR-2019-073.pdf)
