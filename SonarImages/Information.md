@@ -11,6 +11,12 @@
   - The images here are all of there place but there are a few useful images.
 - [Shipwreck sonar images](https://www.shipwreckworld.com/articles/side-scan-sonar-images)
   - This website contains several images of underwater shipwreck objects including schooner, steamers, aircrafts, anchors etc that could be useful as training data.
+
+### Useful videos
+- [DeepVision Side Scan on BlueRobotics ROV](https://www.youtube.com/watch?v=uXRfvcN-M-k)
+- [Side Scan Sonar Data from ecoSUBm5-Power+](https://www.youtube.com/watch?v=uXRfvcN-M-k)
+- [Identifying fish](https://www.youtube.com/watch?v=OAFYciSsLek)
+
 ### Useful Websites
 - [The Main Research Paper](https://ieeexplore.ieee.org/document/9026963)
 - [Understanding Side Scan Sonar Images](https://www.lafishblog.com/interpret-side-imaging-sonar/)
