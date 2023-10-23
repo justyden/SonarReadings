@@ -3,7 +3,7 @@
     <h3>A Penn State Acura Project<h3>
   <img src="https://github.com/BabyKangaroo117/Frugl-APP/assets/13011373/b5efcc9f-946b-44ee-88cb-0036170282ff">
   <br>
-  <a href="https://github.com/BabyKangaroo117/Frugl-APP/graphs/contributors" alt="Contributors">
+  <a href="https://github.com/justyden/SonarReadings/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/badge/Contributors-4-blue" /></a>
   <img src="https://img.shields.io/badge/Development_Stage-Early_Development-orange"
   <a href="https://github.com/BabyKangaroo117/Frugl-APP/graphs/contributors" alt="License">
